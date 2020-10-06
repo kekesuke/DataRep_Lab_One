@@ -7,7 +7,7 @@ class Vehicle{
         this.year = year;
       
     }
-    //method to print out the moake model and the year to the consol
+    //method to print out the make, model and the year to the console
     Information(){
         console.log(`Make: ${this.make}.`);
         console.log(`Model: ${this.model}.`);
